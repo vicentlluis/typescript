@@ -27,4 +27,6 @@
     }
     const antman = new Avenger('Antman', 'Capi');
     console.log(antman);
+
+    document.write("prueba");
 })();
